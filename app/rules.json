@@ -1,0 +1,12 @@
+[
+    {
+        "type": "weekend_bonus",
+        "multiplier": 2,
+        "order": 2
+    },
+    {
+        "type": "vip_bonus",
+        "percentage": 40,
+        "order": 1
+    }
+]
